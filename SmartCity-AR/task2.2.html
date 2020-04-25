@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+  <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/2.0.6/aframe/build/aframe-ar.js"></script>
+</head>
+<body style="margin: 0px; overflow: hidden;">
+  <a-scene gps-camera-debug embedded arjs="sourceType: webcam; debugUIEnabled: false;" vr-mode-ui="enabled: false">
+    <a-camera gps-camera rotation-reader>
+    </a-camera>
+    <a-box color="yellow" gps-entity-place="latitude: 46.929667606601726; longitude: 19.683317123246113" scale="2 2 2" />
+  </a-scene>
+</body>
+</html>
