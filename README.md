@@ -12,6 +12,7 @@
         <li><a href="SmartCity-AR/task1.5.html">Task 1.5</a></li>
         <li><a href="SmartCity-AR/task1.6.html">Task 1.6</a></li>
         <li><a href="SmartCity-AR/task1.7.html">Task 1.7</a></li>
+        <li><a href="SmartCity-AR/task1.8.html">Task 1.8</a></li>
     </ul>
 </body>
 </html>
